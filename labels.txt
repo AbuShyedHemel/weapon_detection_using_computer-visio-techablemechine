@@ -1,0 +1,6 @@
+gun
+knife
+rifle
+shotgun
+sniper
+none
